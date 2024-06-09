@@ -31,7 +31,7 @@ The CNN model used in this project is a sequential model, implemented with the K
 ## Contributors:
 - [Niraj Bansal](https://github.com/NirajB1602)
 
-For any inquiries or suggestions, feel free to contact. Thank you for using Drowsiness Detection system!
+Feel free to fork, contribute, and share this project with others interested in drowsiness detection and improving safety through technology. Thank you for using Drowsiness Detection system!
 
 ## Note:
 Ensure the required Haar cascade XML files (`haarcascade_frontalface_alt.xml`, `haarcascade_lefteye_2splits.xml`, `haarcascade_righteye_2splits.xml`) are present in the `haar cascade files` directory, and the alarm sound file (`alarm.wav`) is available in the root directory.
